@@ -1,0 +1,1694 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+ <!--<![endif]-->
+ <head>
+  <link href="//fonts.googleapis.com/css?family=Lato%3A900%2C300%2C700%2C600%2C400" rel="stylesheet"/>
+  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <script>
+   (adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-9946473207256140",enable_page_level_ads:true});
+  </script>
+  <link href="http://utdmercury.com/wp-content/uploads/2016/08/favicon-logo.png" rel="shortcut icon"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+   <link href="http://utdmercury.com/xmlrpc.php" rel="pingback"/>
+   <title>
+    On the spectrum - The UTD Mercury
+   </title>
+   <style type="text/css">
+    @font-face{font-family:'socialfans';src:url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/socialfans.eot?v=4.4.1');src:url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/socialfans.eot?v=4.4.1#iefix') format('embedded-opentype'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/socialfans.woff?v=4.4.1') format('woff'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/socialfans.ttf?v=4.4.1') format('truetype'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/socialfans.svg?v=4.4.1') format('svg');font-weight:normal;font-style:normal}
+   </style>
+   <style type="text/css">
+    @font-face{font-family:'fontawesome';src:url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.eot?v=4.4.1');src:url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.eot?v=4.4.1#iefix') format('embedded-opentype'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.woff?v=4.4.1') format('woff'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.woff2?v=4.4.1') format('woff2'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.ttf?v=4.4.1') format('truetype'),
+url('http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/font/fontawesome.svg?v=4.4.1') format('svg');font-weight:normal;font-style:normal}
+   </style>
+   <link href="http://utdmercury.com/on-the-spectrum/" rel="canonical">
+    <meta content="en_US" property="og:locale"/>
+    <meta content="article" property="og:type"/>
+    <meta content="On the spectrum - The UTD Mercury" property="og:title"/>
+    <meta content="Jennifer Partin was on her shift looking after children when she saw a young boy with autism grabbed and forced to make eye contact with another worker. “I ... Read More" property="og:description"/>
+    <meta content="http://utdmercury.com/on-the-spectrum/" property="og:url"/>
+    <meta content="The UTD Mercury" property="og:site_name"/>
+    <meta content="autism" property="article:tag"/>
+    <meta content="Autistic Empowerment" property="article:tag"/>
+    <meta content="Jennifer Partin" property="article:tag"/>
+    <meta content="Office of Student AccessAbility" property="article:tag"/>
+    <meta content="Campus News" property="article:section"/>
+    <meta content="2017-02-20T10:13:19-05:00" property="article:published_time"/>
+    <meta content="2017-02-20T11:32:21-05:00" property="article:modified_time"/>
+    <meta content="2017-02-20T11:32:21-05:00" property="og:updated_time"/>
+    <meta content="http://utdmercury.com/wp-content/uploads/2017/02/IMG_9381.jpg" property="og:image"/>
+    <meta content="5184" property="og:image:width"/>
+    <meta content="3456" property="og:image:height"/>
+    <link href="//s0.wp.com" rel="dns-prefetch"/>
+    <link href="//s.gravatar.com" rel="dns-prefetch"/>
+    <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+    <link href="//s.w.org" rel="dns-prefetch"/>
+    <link href="http://utdmercury.com/feed/" rel="alternate" title="The UTD Mercury » Feed" type="application/rss+xml"/>
+    <link href="http://utdmercury.com/comments/feed/" rel="alternate" title="The UTD Mercury » Comments Feed" type="application/rss+xml"/>
+    <link href="http://utdmercury.com/on-the-spectrum/feed/" rel="alternate" title="The UTD Mercury » On the spectrum Comments Feed" type="application/rss+xml"/>
+    <script type="text/javascript">
+     window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/utdmercury.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+     img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
+    </style>
+    <link href="http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/css/socialfans-style.css?ver=4.4.1" id="socialfans-widget-style-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/css/font-awesome.min.css?ver=4.4.1" id="fontawesome-widget-style-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/plugins/wordpresscom-stats-smiley-remover/css/wordpresscom-stats-smiley-remover.css?ver=15.01" id="wordpresscom-stats-smiley-remover-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.3" id="wp-polls-css" media="all" rel="stylesheet" type="text/css"/>
+    <style id="wp-polls-inline-css" type="text/css">
+     .wp-polls
+.pollbar{margin:1px;font-size:6px;line-height:8px;height:8px;background-image:url('http://utdmercury.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');border:1px
+solid #c8c8c8}
+    </style>
+    <link href="http://utdmercury.com/wp-content/themes/edition/css/font-awesome/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/themes/edition/css/bootstrap.min.css?ver=4.7.5" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/themes/edition-child/style.css?ver=4.7.5" id="theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+    <!--[if IE 8]><link rel='stylesheet' id='ie8-css'  href='http://utdmercury.com/wp-content/themes/edition/css/ie8.css?ver=1.7.4' type='text/css' media='all' /> <![endif]-->
+    <link href="http://utdmercury.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.9" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://utdmercury.com/wp-content/plugins/themewich-shortcodes/css/themewich-shortcodes.css?ver=4.7.5" id="themewich-shortcodes-css" media="all" rel="stylesheet" type="text/css"/>
+    <script data-cfasync="false" type="text/javascript">
+     function __gaTrackerIsOptedOut(){return document.cookie.indexOf(disableStr+'=true')>-1;}
+var disableStr='ga-disable-UA-40560198-1';if(__gaTrackerIsOptedOut()){window[disableStr]=true;}
+function __gaTrackerOptout(){document.cookie=disableStr+'=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';window[disableStr]=true;}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-40560198-1','auto');__gaTracker('set','forceSSL',true);__gaTracker('require','displayfeatures');__gaTracker('require','linkid','linkid.js');__gaTracker('send','pageview');
+    </script>
+    <script src="http://utdmercury.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+    </script>
+    <script src="http://utdmercury.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     var monsterinsights_frontend={"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/utdmercury.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+    </script>
+    <script src="http://utdmercury.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.1.7" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     var impression_object={"ajax_url":"http:\/\/utdmercury.com\/wp-admin\/admin-ajax.php"};
+    </script>
+    <script src="http://utdmercury.com/wp-content/plugins/adrotate/library/jquery.adrotate.dyngroup.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     var click_object={"ajax_url":"http:\/\/utdmercury.com\/wp-admin\/admin-ajax.php"};
+    </script>
+    <script src="http://utdmercury.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js" type="text/javascript">
+    </script>
+    <script src="http://utdmercury.com/wp-content/plugins/themewich-shortcodes/js/modernizr.min.js?ver=2.8.2" type="text/javascript">
+    </script>
+    <script src="http://utdmercury.com/wp-content/themes/edition/js/fixto.min.js?ver=0.3.0" type="text/javascript">
+    </script>
+    <script src="http://utdmercury.com/wp-content/themes/edition/js/respond.min.js?ver=1.4.2" type="text/javascript">
+    </script>
+    <link href="http://utdmercury.com/wp-json/" rel="https://api.w.org/"/>
+    <link href="http://utdmercury.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <link href="http://utdmercury.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+    <meta content="WordPress 4.7.5" name="generator"/>
+    <link href="http://wp.me/p4uNy4-2r0" rel="shortlink"/>
+    <link href="http://utdmercury.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Futdmercury.com%2Fon-the-spectrum%2F" rel="alternate" type="application/json+oembed"/>
+    <link href="http://utdmercury.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Futdmercury.com%2Fon-the-spectrum%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+    <style media="screen" type="text/css">
+     .g{margin:0px;padding:0px;overflow:hidden;line-height:1;zoom:1}.g
+img{height:auto}.g-col{position:relative;float:left}.g-col:first-child{margin-left:0}.g-col:last-child{margin-right:0}.g-1{margin:1px;width:100%;max-width:336px;height:100%;max-height:280px}.g-2{width:100%;max-width:728px;height:100%;max-height:90px;margin:0
+auto}.g-5{width:auto;height:100%;max-height:200px;margin:0
+auto}.g-6{margin:0px;width:100%;max-width:300px;height:100%;max-height:400px}@media only screen and (max-width: 480px){.g-col,.g-dyn,.g-single{width:100%;margin-left:0;margin-right:0}}
+    </style>
+    <script type="text/javascript">
+     jQuery.post("http://utdmercury.com/wp-admin/admin-ajax.php",{action:"wmp_update",id:9362,token:"44261aeee0"});
+    </script>
+    <link href="//v0.wordpress.com" rel="dns-prefetch"/>
+    <link href="//i0.wp.com" rel="dns-prefetch"/>
+    <link href="//i1.wp.com" rel="dns-prefetch"/>
+    <link href="//i2.wp.com" rel="dns-prefetch"/>
+    <style type="text/css">
+    </style>
+    <script type="text/javascript">
+     jQuery(document).ready(function(){if(jQuery.fn.gslider){jQuery('.g-1').gslider({groupid:1,speed:6000});jQuery('.g-2').gslider({groupid:2,speed:6000});jQuery('.g-5').gslider({groupid:5,speed:6000});jQuery('.g-6').gslider({groupid:6,speed:6000});}});
+    </script>
+    <link href="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/04/mercfaviconUPDATED.png?fit=32%2C32" rel="icon" sizes="32x32">
+     <link href="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/04/mercfaviconUPDATED.png?fit=48%2C48" rel="icon" sizes="192x192">
+      <link href="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/04/mercfaviconUPDATED.png?fit=48%2C48" rel="apple-touch-icon-precomposed">
+       <meta content="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/04/mercfaviconUPDATED.png?fit=48%2C48" name="msapplication-TileImage"/>
+       <style class="options-output" title="dynamic-css" type="text/css">
+        #logo, .top-ad, .regular-nav #menu, .regular-nav
+.searchnav{padding-top:25px;padding-bottom:25px}.section .slidecaption .slidetitle,
+.section .slidecaption h1,
+.single-post .pagetitle .title,
+#share-box
+h4{font-family:Lato;text-transform:uppercase;font-weight:900;font-style:normal;font-size:60px}.grid .thumbovertext .title,
+.carousel .carouselpost .thumbovertext .title,
+.full-image-section .fullsection .title,
+.single .no-full-image
+h1.title{font-family:Lato;text-transform:uppercase;font-weight:900;font-style:normal;font-size:44px}.regulargrid .title,
+.carousel.half-carousel .carouselpost .thumbovertext .title,
+.halfgrid .thumbovertext .title,
+.related .thumbovertext
+.title{font-family:Lato;text-transform:uppercase;font-weight:900;font-style:normal;font-size:28px}.pagetitle .title,
+#logo a,
+.woocommerce-page .page-title,
+.woocommerce div.product .product_title,
+.full-post .full-image-section .fullsection
+.title{font-family:Lato;text-transform:uppercase;font-weight:900;font-style:normal;font-size:32px}.pagertitle, .full-taxonomy .fullsection .subtitle, .pagetitle
+.subheadline{font-family:Lato;font-weight:300;font-style:normal}.section-title span,
+.woocommerce .entry-content h2,
+.woocommerce-cart h2,
+.woocommerce .related.products h2,
+.woocommerce-checkout h2,
+.widget h3.widget-title,
+.widget h2.widget-title,
+.widget h4.widget-title{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:700;font-style:normal}.sf-menu li>a{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:600;font-style:normal;font-size:12px}.tiny-details, .badge, .badge a, .thumboverdate,
+.badgesliver, .sharing a .sharetitle, a.button.outline,
+.woocommerce a.button, .woocommerce div.product form.cart .button,
+.woocommerce button, .woocommerce button.button,
+.woocommerce .added_to_cart.wc-forward,
+.woocommerce #respond input#submit, .woocommerce input.button,
+a.more-link, .tagcloud.badge h5,
+a.post-edit-link, .tabswrap ul.tabs li a,
+ul.sf-menu li.megamenu .menu-item-type-custom > a,
+ul.sf-menu li.megamenu .menu-item-type-custom .menu-item-type-custom > a,
+.breaking, .breaking-title, .divider span, cite,
+#breadcrumbs li, .woocommerce .woocommerce-breadcrumb{font-family:Lato;text-transform:uppercase;letter-spacing:2px;font-weight:400;font-style:normal;font-size:10px}h1,.postcontent.no-review>p:first-child:first-letter {font-family:Lato;font-weight:300;font-style:normal;font-size:58px}h2, blockquote, blockquote
+p{font-family:Lato;font-weight:300;font-style:normal;font-size:28px}h3, .woocommerce ul.products li.product h3, .woocommerce h3
+label{font-family:Lato;font-weight:400;font-style:normal;font-size:22px}h4,h5,h6{font-family:Lato;font-weight:700;font-style:normal}p,ul,ol,body,h4.review-title{font-family:Lato;font-weight:400;font-style:normal;font-size:16px}
+       </style>
+      </link>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body class="post-template-default single single-post postid-9362 single-format-standard edition desktop-device regular-nav unknown edition child theme sticky-nav-enabled">
+  <div class="mm-page">
+   <div id="preloaded-images">
+    <img alt="Image" height="1" src="http://utdmercury.com/wp-content/themes/edition/images/loading-spin.svg" width="1"/>
+   </div>
+   <div class="top-bar">
+    <div class="container">
+     <div class="topbar-left">
+      <div class="breaking range-weekly tw-vertical">
+       <div class="breaking-title">
+        Popular
+       </div>
+       <div class="breaking-ticker">
+        <ul class="news-ticker tw-vertical" data-animation="vertical" data-delay="4">
+         <li>
+          <a href="http://utdmercury.com/four-utd-alumni-killed-plano-home-mass-shooting/" title="Five UTD alumni killed in mass shooting at Plano home">
+           Five UTD alumni killed in mass shooting at Pla...
+          </a>
+         </li>
+         <li>
+          <a href="http://utdmercury.com/relatives-friends-remember-victims-plano-shooting/" title="Relatives, friends remember victims of Plano shooting">
+           Relatives, friends remember victims of Plano s...
+          </a>
+         </li>
+         <li>
+          <a href="http://utdmercury.com/jsom-offers-new-beer-class/" title="JSOM offers new beer class">
+           JSOM offers new beer class
+          </a>
+         </li>
+         <li>
+          <a href="http://utdmercury.com/student-releases-debut-album/" title="Student releases debut album">
+           Student releases debut album
+          </a>
+         </li>
+         <li>
+          <a href="http://utdmercury.com/what-happens-next/" title="What happens next?">
+           What happens next?
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <script>
+       jQuery(document).ready(function(){(function($){var newsticker=$('.news-ticker'),$delay=parseInt(newsticker.attr('data-delay')+'000'),$animation=newsticker.attr('data-animation');if($animation=='scroll'){$ticker=newsticker.bxSlider({useCSS:false,pager:false,ticker:true,tickerHover:true,autoHover:true,speed:$delay*4});}else{$ticker=newsticker.bxSlider({useCSS:false,autoHover:true,mode:$animation,auto:true,pager:false,pause:$delay});}})(jQuery);});
+      </script>
+     </div>
+     <div class="topbar-right">
+      <a class="" href="https://www.facebook.com/TheUTDMercury/" target="_blank">
+       <i class="fa fa-facebook">
+       </i>
+      </a>
+      <a class="" href="https://twitter.com/utdmercury" target="_blank">
+       <i class="fa fa-twitter">
+       </i>
+      </a>
+      <a class="" href="https://www.youtube.com/channel/UCgF6kGFcR6HR_c2O5cL2JfQ" target="_blank">
+       <i class="fa fa-youtube-play">
+       </i>
+      </a>
+      <a class="" href="https://www.instagram.com/utdmercury/" target="_blank">
+       <i class="fa fa-instagram">
+       </i>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="top-nav regular-nav">
+    <div class="container top-nav-inner">
+     <div id="logo">
+      <h2>
+       <a href="http://utdmercury.com">
+        <span class="non-retina" style="max-width: 180px">
+         <img alt="The UTD Mercury" src="http://utdmercury.com/wp-content/uploads/2016/08/logo-fix3.png"/>
+        </span>
+       </a>
+      </h2>
+     </div>
+     <div class="mobile-link">
+      <a href="#mobilemenu">
+       <i class="fa fa-bars">
+       </i>
+      </a>
+     </div>
+     <div id="menu">
+      <ul class="sf-menu" id="menu-main">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-9 customsection" id="menu-item-9">
+        <a href="http://utdmercury.com/category/news/">
+         News
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9183 customsection" id="menu-item-9183">
+          <a href="http://utdmercury.com/category/news/podcasts/">
+           Podcast Episodes
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9184 customsection" id="menu-item-9184">
+          <a href="http://utdmercury.com/category/news/audio/">
+           Audio Packages
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8" id="menu-item-8">
+        <a href="http://utdmercury.com/category/life-arts/">
+         Life &amp; Arts
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13 customsection" id="menu-item-13">
+        <a href="http://utdmercury.com/category/opinion/">
+         Opinion
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17 customsection" id="menu-item-17">
+        <a href="http://utdmercury.com/category/sports/">
+         Sports
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967 customsection" id="menu-item-967">
+        <a href="http://utdmercury.com/comics/">
+         Comics
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1028 customsection" id="menu-item-1028">
+        <a href="http://utdmercury.com/eeditions-2/">
+         Newspaper
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3644 customsection" id="menu-item-3644">
+        <a href="http://utdmercury.com/category/blogs/">
+         Blogs
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8499 customsection" id="menu-item-8499">
+          <a href="http://utdmercury.com/category/blogs/modern-bookworm/">
+           Modern Bookworm
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7271 customsection" id="menu-item-7271">
+          <a href="http://utdmercury.com/category/blogs/between-the-lines/">
+           Between the Lines
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3645 customsection" id="menu-item-3645">
+          <a href="http://utdmercury.com/category/blogs/macchiatos-and-neuroscience/">
+           Macchiatos and Neuroscience
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7452 customsection" id="menu-item-7452">
+        <a href="http://utdmercury.com/contact-us/">
+         Contact Us
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7453 customsection" id="menu-item-7453">
+          <a href="http://utdmercury.com/advertising/">
+           Advertising
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7471 customsection" id="menu-item-7471">
+          <a href="http://utdmercury.com/source-faqs/">
+           Source FAQs
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="searchnav">
+      <div class="search-form search">
+       <form action="http://utdmercury.com/" class="search-form" method="get" name="SearchForm" role="search">
+        <label>
+         <input class="search-field" name="s" placeholder="Search..." title="Search..." type="search" value=""/>
+        </label>
+       </form>
+       <i class="fa fa-search searchbutton">
+       </i>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <nav id="mobilemenu">
+    <ul>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-9">
+      <a href="http://utdmercury.com/category/news/">
+       News
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9183">
+        <a href="http://utdmercury.com/category/news/podcasts/">
+         Podcast Episodes
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9184">
+        <a href="http://utdmercury.com/category/news/audio/">
+         Audio Packages
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8">
+      <a href="http://utdmercury.com/category/life-arts/">
+       Life &amp; Arts
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13">
+      <a href="http://utdmercury.com/category/opinion/">
+       Opinion
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17">
+      <a href="http://utdmercury.com/category/sports/">
+       Sports
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967">
+      <a href="http://utdmercury.com/comics/">
+       Comics
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1028">
+      <a href="http://utdmercury.com/eeditions-2/">
+       Newspaper
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3644">
+      <a href="http://utdmercury.com/category/blogs/">
+       Blogs
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8499">
+        <a href="http://utdmercury.com/category/blogs/modern-bookworm/">
+         Modern Bookworm
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7271">
+        <a href="http://utdmercury.com/category/blogs/between-the-lines/">
+         Between the Lines
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3645">
+        <a href="http://utdmercury.com/category/blogs/macchiatos-and-neuroscience/">
+         Macchiatos and Neuroscience
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7452">
+      <a href="http://utdmercury.com/contact-us/">
+       Contact Us
+      </a>
+      <ul class="sub-menu">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7453">
+        <a href="http://utdmercury.com/advertising/">
+         Advertising
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7471">
+        <a href="http://utdmercury.com/source-faqs/">
+         Source FAQs
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </nav>
+   <div id="sitecontainer">
+    <div class="has-sidebar has-thumbnail has-full-image no-review sharing-enabled no-author-box related-enabled no-dropcap highlight_category_7 post-9362 post type-post status-publish format-standard has-post-thumbnail hentry category-campus-news category-featured category-news tag-autism tag-autistic-empowerment tag-jennifer-partin tag-office-of-student-accessability">
+     <div class="pagetitleloading background-imaged loading-dark">
+      <div class="pagetitle item imagewrapper full-image">
+       <div class="imagecover">
+        <img alt="" class="top-bg-image" onload="jQuery(this).animate({'opacity': '1'}, 500);" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9381.jpg?fit=1500%2C1000" style="opacity:0;"/>
+       </div>
+       <div class="overlay">
+       </div>
+       <span class="credits">
+        Photo by Saher Aqeel | Photo Editor.
+       </span>
+       <div class="posttitle slidecaptionwrap">
+        <div class="slidecaptioncenter container">
+         <div class="slidecaption">
+          <div class="col-md-8">
+           <div class="badge">
+            <a class="category-7" href="http://utdmercury.com/category/news/campus-news/" title="More Campus News Posts">
+             Campus News
+            </a>
+            <a class="category-1868" href="http://utdmercury.com/category/featured/" title="More Featured Posts">
+             Featured
+            </a>
+            <a class="category-6" href="http://utdmercury.com/category/news/" title="More News Posts">
+             News
+            </a>
+            <div class="clear">
+            </div>
+           </div>
+           <h1 class="title entry-title">
+            On the spectrum
+           </h1>
+           <div class="byline">
+            <img alt="" class="avatar avatar-38 photo" height="38" src="http://1.gravatar.com/avatar/d44a733aa84f82ad79d2dc9ddb407a97?s=38&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/d44a733aa84f82ad79d2dc9ddb407a97?s=76&amp;d=mm&amp;r=g 2x" width="38"/>
+            <span class="author vcard tiny-details">
+             By
+             <span class="fn">
+              <a href="http://utdmercury.com/author/ocm/" rel="author" title="Posts by The Mercury">
+               The Mercury
+              </a>
+             </span>
+             <span class="mobiledate">
+              <span class="tw-bullet">
+               •
+              </span>
+              7 months ago
+             </span>
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <span>
+       </span>
+       <div class="date updated">
+        <span class="day">
+         20
+        </span>
+        <p>
+         <span class="month">
+          Feb
+         </span>
+         <br/>
+         <span class="year">
+          2017
+         </span>
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="container">
+      <div class="rightside">
+       <div class="postcontentwrap">
+        <div class="sharingwrap desktop-share">
+         <div class="sharing">
+          <div class="sharing-inner">
+           <a class="open-popup-link post-share share popup-with-move-anim" data-post_id="9362" href="#share-box">
+            <div class="sharecircle count">
+             6
+            </div>
+            <i class="fa fa-share-square-o">
+            </i>
+            <span class="sharetitle" data-clicked="Shared">
+             Share
+            </span>
+           </a>
+           <a class="comment" href="#respond">
+            <div class="sharecircle">
+             0
+            </div>
+            <i class="fa fa-comment-o">
+            </i>
+            <span class="sharetitle">
+             Comment
+            </span>
+           </a>
+           <a class="post-like love" data-post_id="9362" href="#">
+            <div class="sharecircle count">
+             2
+            </div>
+            <i class="fa fa-heart-o">
+            </i>
+            <span class="sharetitle" data-clicked="Loved">
+             Love
+            </span>
+           </a>
+           <div class="zoom-anim-dialog mfp-hide" id="share-box">
+            <span class="share-subtitle">
+             Share
+            </span>
+            <h4>
+             On the spectrum
+            </h4>
+            <script type="text/javascript">
+             function share_window(width,height,network){var leftPosition,topPosition;leftPosition=(window.screen.width/2)-((width/2)+10);topPosition=(window.screen.height/2)-((height/2)+50);var windowFeatures="status=no,height="+height+",width="+width+",resizable=yes,left="+leftPosition+",top="+topPosition+",screenX="+leftPosition+",screenY="+topPosition+",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";u=location.href;t=document.title;switch(network){case'facebook':window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer',windowFeatures);return false;break;case'twitter':window.open('http://twitter.com/home?status=On+the+spectrum%20-%20http://utdmercury.com/on-the-spectrum/','sharer',windowFeatures);return false;break;case'linkedin':window.open('http://www.linkedin.com/shareArticle?mini=true&url=http://utdmercury.com/on-the-spectrum/&title=On the spectrum&source=The UTD Mercury','sharer',windowFeatures);return false;break;case'pinterest':window.open('http://pinterest.com/pin/create/button/?url=http://utdmercury.com/on-the-spectrum/&media=https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9381.jpg?fit=1500%2C1000&description=On%20the%20spectrum','sharer',windowFeatures);return false;break;case'google':window.open('http://plus.google.com/share?url=http://utdmercury.com/on-the-spectrum/','sharer',windowFeatures);return false;break;default:console.error('Error: network was not defined.');break;}}
+            </script>
+            <a class="hint--bottom facebook-icon" data-hint="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http://utdmercury.com/on-the-spectrum/" onclick="return share_window(500, 300, 'facebook')" target="_blank">
+             <i class="fa fa-facebook-square">
+             </i>
+            </a>
+            <a class="hint--bottom twitter-icon" data-hint="Share on Twitter" href="http://twitter.com/home?status=On%20the%20spectrum%20-%20http://utdmercury.com/on-the-spectrum/" onclick="return share_window(500, 300, 'twitter')" target="_blank">
+             <i class="fa fa-twitter-square">
+             </i>
+            </a>
+            <a class="hint--bottom linkedin-icon" data-hint="Share on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://utdmercury.com/on-the-spectrum/&amp;title=On%20the%20spectrum&amp;source=The UTD Mercury" onclick="return share_window(500, 300, 'linkedin')">
+             <i class="fa fa-linkedin-square">
+             </i>
+            </a>
+            <a class="hint--bottom pinterest-icon" data-hint="Share on Pinterest" href="http://pinterest.com/pin/create/button/?url=http://utdmercury.com/on-the-spectrum/&amp;media=https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9381.jpg?fit=1500%2C1000&amp;description=On%20the%20spectrum" onclick="return share_window(750, 300, 'pinterest')">
+             <i class="fa fa-pinterest">
+             </i>
+            </a>
+            <a class="hint--bottom googleplus-icon" data-hint="Share on Google+" href="http://plus.google.com/share?url=http://utdmercury.com/on-the-spectrum/" onclick="return share_window(500, 475, 'google')">
+             <i class="fa fa-google-plus-square">
+             </i>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="rightcontent">
+         <div class="postcontent content">
+          <h2 class="post-subtitle">
+           UTD’s resources help students with autism navigate college
+          </h2>
+          <div class="tagcloud badge no-margin mobile-only-date">
+           <h5>
+            7 months ago
+           </h5>
+          </div>
+          <div class="tagcloud badge no-margin">
+           <h5>
+            Bhargav Arimilli
+           </h5>
+           <a>
+            Life &amp; Arts Editor
+           </a>
+          </div>
+          <p class="p1">
+           Jennifer Partin was on her shift looking after children when she saw a young boy with autism grabbed and forced to make eye contact with another worker.
+          </p>
+          <p class="p2">
+           <span class="s1">
+            “I wanted to say something, but I was just a lowly respite worker,” she said. “Every now and then I get pessimistic, so what I try to do is just raise understanding.”
+           </span>
+          </p>
+          <div class="g g-5">
+           <div class="g-dyn a-40 c-1">
+            <style>
+             .mercury-divider{border:0;height:0;border-top:1px solid rgba(0, 0, 0, 0.1);border-bottom:1px solid rgba(255, 255, 255, 0.3)}
+            </style>
+            <div>
+             <hr class="mercury-divider" style="margin-top:5px;"/>
+             <div>
+              <p style="color:darkgray;margin-bottom:6px;">
+               Advertisement
+              </p>
+              <div class="quads-location quads-ad2" id="quads-ad2" style="float:none;margin:0px;">
+               <script async="" data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+               </script>
+               <script data-cfasync="false" type="text/javascript">
+                var quads_screen_width=document.body.clientWidth;if(quads_screen_width>=1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px;" data-ad-client="pub-9946473207256140" data-ad-slot="6752489423" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=1024&&quads_screen_width<1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px;" data-ad-client="pub-9946473207256140" data-ad-slot="6752489423" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=768&&quads_screen_width<1024){document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px;" data-ad-client="pub-9946473207256140" data-ad-slot="6752489423" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width<768){document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px;" data-ad-client="pub-9946473207256140" data-ad-slot="6752489423" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}
+               </script>
+              </div>
+             </div>
+             <hr class="mercury-divider" style="margin-top:20px;"/>
+            </div>
+           </div>
+          </div>
+          <p class="p2">
+           <span class="s2">
+            Partin, a psychology senior who was diagnosed with autism spectrum disorder in 2016, started doing so at UTD. She founded a student group called For Autistic Empowerment — the first of its kind on campus — that provides support for individuals with autism.
+           </span>
+          </p>
+          <p class="p2">
+           “On one hand, we want to create a community where you don’t have to worry about people judging you for being autistic,” she said. “The other side of the mission is to spread education about what autism is and what it’s like. There’s a tendency towards awareness raising. Awareness without education leads to fear and stigma.”
+          </p>
+          <p class="p4">
+           ***
+          </p>
+          <p class="p2">
+           Autism spectrum disorder is a developmental condition that can impair social interaction and communication and encompasses a range of symptoms, skills and disabilities. According to a CDC report published in 2014, about one in 68 children have been diagnosed with ASD.
+          </p>
+          <div class="g g-7">
+           <div class="g-single a-39">
+            <style>
+             .mercury-divider{border:0;height:0;border-top:1px solid rgba(0, 0, 0, 0.1);border-bottom:1px solid rgba(255, 255, 255, 0.3)}
+            </style>
+            <div>
+             <hr class="mercury-divider" style="margin-top:5px;"/>
+             <div>
+              <p style="color:darkgray;margin-bottom:6px;">
+               Advertisement
+              </p>
+              <div class="quads-location quads-ad1" id="quads-ad1" style="float:none;margin:0px;">
+               <script async="" data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+               </script>
+               <script data-cfasync="false" type="text/javascript">
+                var quads_screen_width=document.body.clientWidth;if(quads_screen_width>=1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=1024&&quads_screen_width<1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=768&&quads_screen_width<1024){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width<768){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}
+               </script>
+              </div>
+             </div>
+             <hr class="mercury-divider" style="margin-top:20px;"/>
+            </div>
+           </div>
+          </div>
+          <p class="p2">
+           UTD is home to one of the nation’s largest populations of students diagnosed with ASD. According to the Office of Student AccessAbility, 450 students have registered for autism-related accommodations. A
+           <i>
+            New York Times
+           </i>
+           article published last November reported institutions such as Western Kentucky University and Adelphi University had similar accommodation programs that served between 45 and 100 students, far less than UTD.
+          </p>
+          <p class="p2">
+           <span class="s3">
+            A 2012 study in the journal
+            <i>
+             Pediatrics
+            </i>
+            found that 34.7 percent of adolescents with ASD attended college and 55.1 percent were only employed within the first six years after high school. For Noah Sasson, a professor in the School of Brain and Behavioral Sciences who specializes in autism research, these statistics reflect a larger problem in the way resources for individuals with au
+           </span>
+           tism are allocated.
+          </p>
+          <p class="p2">
+           “A huge problem is getting support for adults with autism because a lot of public services for kids with autism (are) tied to the school system,” Sasson said. “They’re very few of these kinds of resources for students once they age out of those.”
+          </p>
+          <p class="p2">
+           UTD’s large number of autistic students receive support from the OSA, which works to ensure they receive adequate accommodations based on paperwork filed with the office after acceptance into the university. Kerry Tate, the director of the OSA, said the office makes every effort to tend to personal needs.
+          </p>
+          <p class="p2">
+           “Each student is unique because they’re each going to have different environments,” Tate said. “It may be that they need different color paper when they’re taking their exam. It could be a variety of things, but once the documentation supports it, we are trying to meet their need.”
+          </p>
+          <p class="p4">
+           ***
+          </p>
+          <p class="p2">
+           The relatively high number of students with autism at UTD can be attributed to the university’s strength in certain fields, Sasson said.
+          </p>
+          <p class="p2">
+           “We have top engineering programs (and) computer programs. These are areas where some – not all – people with autism tend to have talents and abilities,” he said. “There’s a lot of research on the kind of logical thinking in autism. Often times we see strengths in mathematics and science-related areas.”
+          </p>
+          <p class="p2">
+           Sasson said though autism is no longer as stigmatized in society as it was before, stereotypes surrounding autism are still prevalent. For Partin, dealing with these misconceptions as a student with autism is a constant struggle.
+          </p>
+          <p class="p2">
+           “People think that it’s some terrible tragedy that only affects children,” she said. “The five-year old boy lining up trains – that’s the stereotype.”
+          </p>
+          <p class="p2">
+           Partin is affected with executive function issues, which impair her ability to manage time and prioritize tasks, as well as dysgraphia, which affects her ability to write. To accommodate her needs, the OSA allows Partin to take notes on her laptop and record lectures.
+          </p>
+          <p class="p2">
+           On a personal level, Partin said she struggles to interact with other students at UTD.
+          </p>
+          <p class="p2">
+           “I have trouble bridging the gap between ‘acquaintance’ and ‘friend’ and actually feeling like I’m worth their time,” she said. “Part of that is a social anxiety thing from autism and part of it is just social ineptitude.”
+          </p>
+          <p class="p2">
+           In spite of the difficulties she faces, Partin emphasized the importance of being treated the same as any other UTD student.
+          </p>
+          <p class="p2">
+           “We’re just like you. We don’t need cures, we don’t need to be coddled, we don’t need to be looked at as weird,” she said.
+          </p>
+          <div class="wp-caption alignparallax" id="attachment_9365">
+           <a class="themewich-lightbox" href="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg">
+            <img alt="" class="parallaximg alignparallax size-fullslideshownc wp-image-9365" data-recalc-dims="1" sizes="(max-width: 1170px) 100vw, 1170px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=1170%2C780" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=1500%2C1000 1500w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=300%2C200 300w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=768%2C512 768w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=1024%2C683 1024w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=160%2C107 160w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?resize=740%2C493 740w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?w=2340 2340w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/02/IMG_9405.jpg?w=3510 3510w"/>
+           </a>
+           <p class="wp-caption-text caption-parallaximg">
+            <span>
+             Jennifer Partin, a psychology senior and president of For Autistic Empowerment, was diagnosed with autism spectrum disorder in 2016. She founded FAE, the first group of its kind, to offer support for individuals with autism. Photo by Saher Aqeel | Photo Editor.
+            </span>
+           </p>
+          </div>
+          <p class="p2">
+           To foster social connections within the community of students with autism, FAE meets every Friday to provide a space for dialogue and plan campus events. Chance Reyna, a computer engineering sophomore, joined FAE in September. He said he was hesitant to join the group, but found the environment to be welcoming and inclusive. Since then, he’s attended every meeting.
+          </p>
+          <p class="p2">
+           “The key word is acceptance,” Reyna said. “People at this point are aware that it’s a thing that exists, but there needs to be more understanding about how autism works in different people … (because) it’s literally impossible to throw a blanket statement that encompasses every single autistic person.”
+          </p>
+          <p class="p2">
+           Other UTD-affiliated institutions also support individuals diagnosed with autism.
+           <span class="Apple-converted-space">
+           </span>
+           The Callier Center operates the Young Adult Communication Group, a support group for young adults diagnosed with ASD. Lucinda Dean, a lecturer in the School of Brain and Behavioral Sciences, launched the program in 2004 and started with a group of three members.
+          </p>
+          <p class="p2">
+           “What I enjoyed probably the most was seeing the young adults who attended grow in confidence with their social communication skills and feel more successful communicating with their peers and professors,” Dean said.
+          </p>
+          <p class="p2">
+           Christina Gollis, a speech-language pathologist at the Callier Center, took over direction of the group in the fall of 2016. By then, the program had grown to 20 members. She leads participants in role-playing scenarios such as asking a professor to fill out accommodation paperwork or interacting in a group setting.
+          </p>
+          <p class="p2">
+           “Most of the students who participate in the group that go to UT Dallas are very smart and they are very successful in the academic part of their classes,” Gollis said. “A lot of them end up coming for half of a semester and then they realize that they’re actually doing pretty well because they have met some new people that they have for support.”
+          </p>
+          <p class="p2">
+           ***
+          </p>
+          <p class="p2">
+           After completing her degree in psychology, Jennifer Partin plans to pursue a career in academia and continue her advocacy work started in FAE by researching the ethics of certain psychological treatments.
+          </p>
+          <p class="p2">
+           “I have a lot of resources through being in connection with other autistic communities,” Partin said. “We share tips of the trade on how to navigate being autistic.”
+          </p>
+          <p class="p2">
+           Despite the challenges she faces, Partin is optimistic.
+          </p>
+          <p class="p2">
+           “Autism is like anything about being human. There are things that suck about it. And there are things that are awesome about it,” Partin said. “Autism isn’t a broken computer – it’s a different operating system.”
+          </p>
+          <p class="p2">
+           **Additional reporting by Marisa Williams**
+          </p>
+          <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
+          </div>
+         </div>
+         <div class="afterpost-items">
+          <div class="tagcloud badge">
+           <h5>
+            Tags
+           </h5>
+           <a href="http://utdmercury.com/tag/autism/" rel="tag">
+            autism
+           </a>
+           <a href="http://utdmercury.com/tag/autistic-empowerment/" rel="tag">
+            Autistic Empowerment
+           </a>
+           <a href="http://utdmercury.com/tag/jennifer-partin/" rel="tag">
+            Jennifer Partin
+           </a>
+           <a href="http://utdmercury.com/tag/office-of-student-accessability/" rel="tag">
+            Office of Student AccessAbility
+           </a>
+          </div>
+          <div class="clear">
+          </div>
+          <div class="related-posts">
+           <div class="related-inner">
+            <div class="section-title">
+             <p>
+              <span>
+               You Might Also Like
+              </span>
+             </p>
+            </div>
+            <div class="highlight_category_6 has-thumbnail related grid-item">
+             <div class="isobrick-inner">
+              <img alt="" class="attachment-related size-related wp-post-image" onload='jQuery(this).animate({ "opacity" : 0.75 }, 500);' sizes="(max-width: 525px) 100vw, 525px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2014/05/img_0231.jpg?resize=525%2C564" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2014/05/img_0231.jpg?zoom=2&amp;resize=525%2C564 1050w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2014/05/img_0231.jpg?zoom=3&amp;resize=525%2C564 1575w"/>
+              <span class="thumboverdate">
+               <i class="fa fa-bookmark">
+               </i>
+               3 years ago
+              </span>
+              <div class="thumbovertext">
+               <div class="badge">
+                <a class="category-6" href="http://utdmercury.com/category/news/" title="More News Posts">
+                 News
+                </a>
+                <div class="clear">
+                </div>
+               </div>
+               <h2 class="title">
+                <a href="http://utdmercury.com/alumni-build-therapeutic-bots-for-autistic-children/" title="Alumni build therapeutic bots for autistic children">
+                 Alumni build therapeutic bots for autistic children
+                </a>
+               </h2>
+               <a class="button outline" href="http://utdmercury.com/alumni-build-therapeutic-bots-for-autistic-children/" title="Alumni build therapeutic bots for autistic children">
+                Read More
+               </a>
+              </div>
+              <a class="brick-thumb-link" href="http://utdmercury.com/alumni-build-therapeutic-bots-for-autistic-children/" title="Alumni build therapeutic bots for autistic children">
+               Alumni build therapeutic bots for autistic children
+              </a>
+             </div>
+            </div>
+            <div class="clear">
+            </div>
+           </div>
+          </div>
+          <div class="commentwrapper">
+           <div class="commentsform">
+            <div class="section-title">
+             <span>
+              Submit a Comment
+             </span>
+            </div>
+            <div class="comment-respond" id="respond">
+             <h3 class="comment-reply-title" id="reply-title">
+              <small>
+               <a href="/on-the-spectrum/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+                Cancel reply
+               </a>
+              </small>
+             </h3>
+             <form action="http://utdmercury.com/wp-comments-post.php" class="comment-form" id="commentsubmit" method="post" novalidate="">
+              <label for="comment">
+               Message
+               <span>
+                *
+               </span>
+              </label>
+              <textarea class="required" cols="58" id="comment" name="comment" rows="8" tabindex="4"></textarea>
+              <div>
+               <label for="author">
+                Name
+                <span class="required">
+                 *
+                </span>
+               </label>
+               <input class="required" id="author" name="author" size="22" tabindex="1" type="text" value=""/>
+              </div>
+              <div>
+               <label for="email">
+                Mail
+                <span class="required">
+                 *
+                </span>
+               </label>
+               <input class="required email" id="email" name="email" size="22" tabindex="2" type="text" value=""/>
+              </div>
+              <label for="url">
+               Website
+              </label>
+              <input id="url" name="url" size="44" tabindex="3" type="text" value=""/>
+              <p class="form-submit">
+               <input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/>
+               <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="9362"/>
+               <input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+              </p>
+              <p style="display: none;">
+               <input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="174160cfe5"/>
+              </p>
+              <p class="comment-subscription-form">
+               <input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/>
+               <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">
+                Notify me of follow-up comments by email.
+               </label>
+              </p>
+              <p class="comment-subscription-form">
+               <input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/>
+               <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">
+                Notify me of new posts by email.
+               </label>
+              </p>
+              <p style="display: none;">
+               <input id="ak_js" name="ak_js" type="hidden" value="144"/>
+              </p>
+             </form>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="sidebar">
+       <div class="sidebarcontent">
+        <div class="widget adrotate_widgets" id="adrotate_widgets-4">
+         <div class="g g-1">
+          <div class="g-dyn a-41 c-1">
+           <div class="quads-location quads-ad3" id="quads-ad3" style="float:none;margin:0px;">
+            <script async="" data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+            </script>
+            <script data-cfasync="false" type="text/javascript">
+             var quads_screen_width=document.body.clientWidth;if(quads_screen_width>=1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px;" data-ad-client="pub-9946473207256140" data-ad-slot="6534009336" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=1024&&quads_screen_width<1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px;" data-ad-client="pub-9946473207256140" data-ad-slot="6534009336" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=768&&quads_screen_width<1024){document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px;" data-ad-client="pub-9946473207256140" data-ad-slot="6534009336" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width<768){document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px;" data-ad-client="pub-9946473207256140" data-ad-slot="6534009336" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="sf-widget-holder sf-brdrdus0 sf-m0 " data-animate_numbers="1" data-is_lazy="1" style="">
+         <div class="sf-widget-lazy" data-hide_numbers="0" data-show_total="1">
+          <div class="sf-block sf-view sf-no-effect sf-col-lg-4 sf-col-md-4 sf-col-sm-4 sf-col-xs-4" data-social="facebook">
+           <div class="sf-front sf-bg-facebook">
+            <div class="weekly-added" style=" ">
+             <i>
+              ▲
+             </i>
+             <span>
+              1
+             </span>
+            </div>
+            <a class="sf-dark-color" href="http://www.facebook.com/TheUTDMercury" rel="nofollow" target="_blank">
+             <i class="-sf-icon-facebook ">
+             </i>
+             <div class="sf-spe sf-dark-bg">
+             </div>
+             <span class="sf-social-count sf-dark-color">
+              ...
+             </span>
+             <div class="clearfix">
+             </div>
+             <small class="sf-dark-color">
+              Fans
+             </small>
+            </a>
+           </div>
+           <div class="sf-back sf-mask">
+            <a class="sf-join btn btn-xs sf-bg-facebook sf-dark-color" href="http://www.facebook.com/TheUTDMercury" rel="nofollow" target="_blank">
+             Like
+            </a>
+           </div>
+          </div>
+          <div class="sf-block sf-view sf-no-effect sf-col-lg-4 sf-col-md-4 sf-col-sm-4 sf-col-xs-4" data-social="twitter">
+           <div class="sf-front sf-bg-twitter">
+            <div class="weekly-added" style=" ">
+             <i>
+              ▲
+             </i>
+             <span>
+              171
+             </span>
+            </div>
+            <a class="sf-dark-color" href="http://www.twitter.com/utdmercury" rel="nofollow" target="_blank">
+             <i class="-sf-icon-twitter ">
+             </i>
+             <div class="sf-spe sf-dark-bg">
+             </div>
+             <span class="sf-social-count sf-dark-color">
+              ...
+             </span>
+             <div class="clearfix">
+             </div>
+             <small class="sf-dark-color">
+              Followers
+             </small>
+            </a>
+           </div>
+           <div class="sf-back sf-mask">
+            <a class="sf-join btn btn-xs sf-bg-twitter sf-dark-color" href="http://www.twitter.com/utdmercury" rel="nofollow" target="_blank">
+             Follow
+            </a>
+           </div>
+          </div>
+          <div class="sf-block sf-view sf-col-lg-4 sf-col-md-4 sf-col-sm-4 sf-col-xs-4" data-social="total">
+           <div class="sf-front sf-bg-total">
+            <div class="sf-love sf-dark-color">
+             <i class="-sf-icon-heart">
+             </i>
+             <div class="sf-spe ">
+             </div>
+             <span class="sf-social-count sf-dark-color">
+              ...
+             </span>
+             <div class="clearfix">
+             </div>
+             <small class="sf-dark-color">
+              Fans Love us
+             </small>
+            </div>
+           </div>
+          </div>
+          <div style="clear: both;">
+          </div>
+         </div>
+        </div>
+        <div class="widget ag_popular_widget" id="ag_popular_widget-4">
+         <h4 class="widget-title">
+         </h4>
+         <div class="tabswrap">
+          <ul class="tabs ajax-tabs">
+           <li>
+            <a class="active" data-query="weekly" href="#tab2">
+             Week
+            </a>
+           </li>
+           <li>
+            <a data-query="monthly" href="#tab2">
+             Month
+            </a>
+           </li>
+           <li>
+            <a data-query="all_time" href="#tab2">
+             All Time
+            </a>
+           </li>
+          </ul>
+          <div class="clear">
+          </div>
+          <div class="loading">
+          </div>
+          <ul class="tabs-content" data-posts="6">
+           <li class="active">
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/four-utd-alumni-killed-plano-home-mass-shooting/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/four-utd-alumni-killed-plano-home-mass-shooting/" title="Five UTD alumni killed in mass shooting at Plano home">
+               Five UTD alumni killed in mass shooting at Plano home
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              5703 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/relatives-friends-remember-victims-plano-shooting/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/relatives-friends-remember-victims-plano-shooting/" title="Relatives, friends remember victims of Plano shooting">
+               Relatives, friends remember victims of Plano shooting
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              470 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/jsom-offers-new-beer-class/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/jsom-offers-new-beer-class/" title="JSOM offers new beer class">
+               JSOM offers new beer class
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              209 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/student-releases-debut-album/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/student-releases-debut-album/" title="Student releases debut album">
+               Student releases debut album
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              131 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/what-happens-next/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/what-happens-next/" title="What happens next?">
+               What happens next?
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              91 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/greek-life-obtains-new-commons-su/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/greek-life-obtains-new-commons-su/" title="Greek life obtains new commons in SU">
+               Greek life obtains new commons in SU
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              82 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/lack-faith-govt-millennial-students-biggest-weakness/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/lack-faith-govt-millennial-students-biggest-weakness/">
+               Lack of faith in govt is millennial students’ biggest weakness
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/need-end-climate-change-mitigate-future-disasters/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/need-end-climate-change-mitigate-future-disasters/">
+               We need to end climate change to mitigate future disasters
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/freshman-cricketer-gains-intl-experience/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/freshman-cricketer-gains-intl-experience/">
+               Freshman cricketer gains int’l experience
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/new-head-athletic-trainer-takes/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/new-head-athletic-trainer-takes/">
+               New head athletic trainer takes over
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/fresh-faces/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/fresh-faces/">
+               Fresh faces
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/group-revs-new-year/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/group-revs-new-year/">
+               Group revs up for new year
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+           </li>
+          </ul>
+          <div class="clear">
+          </div>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="widget quads-ad1_widget" id="adswidget1-quick-adsense-reloaded-4">
+         <div id="quads-ad1_widget">
+          <script async="" data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+          </script>
+          <script data-cfasync="false" type="text/javascript">
+           var quads_screen_width=document.body.clientWidth;if(quads_screen_width>=1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=1024&&quads_screen_width<1140){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width>=768&&quads_screen_width<1024){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}if(quads_screen_width<768){document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px;" data-ad-client="pub-9946473207256140" data-ad-slot="2404064778" ></ins>');(adsbygoogle=window.adsbygoogle||[]).push({});}
+          </script>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div class="dark" id="footer">
+     <div class="container clearfix">
+      <div class="col-md-12">
+       <div class="one-third">
+        <div class="widget widget_text" id="text-7">
+         <h3 class="widget-title">
+          The Mercury
+         </h3>
+         <div class="textwidget">
+          The Mercury publishes news, opinion and feature articles of interest and importance to the UT Dallas campus and community, with primary emphasis on news that most directly and immediately concerns students.
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="one-third">
+        <div class="widget widget_contact_info" id="widget_contact_info-2">
+         <h3 class="widget-title">
+          Contact
+         </h3>
+         <iframe class="contact-map" frameborder="0" height="216" src="https://www.google.com/maps/embed/v1/place?q=800+W+Campbell+Rd%2CRichardson%2C+TX+75080&amp;key=AIzaSyDONu84qQiS5lP6QWXHWDNHqhYcIf_QSxU" width="600">
+         </iframe>
+         <div class="confit-address">
+          <a href="https://maps.google.com/maps?z=16&amp;q=800+w+campbell+rd,+richardson,+tx+75080" target="_blank">
+           800 W Campbell Rd,
+           <br/>
+           Richardson, TX 75080
+          </a>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="one-third column-last">
+        <div class="widget ag_popular_widget" id="ag_popular_widget-5">
+         <h3 class="widget-title">
+         </h3>
+         <div class="tabswrap">
+          <ul class="tabs ajax-tabs">
+           <li>
+            <a class="active" data-query="weekly" href="#tab2">
+             Week
+            </a>
+           </li>
+           <li>
+            <a data-query="monthly" href="#tab2">
+             Month
+            </a>
+           </li>
+           <li>
+            <a data-query="all_time" href="#tab2">
+             All Time
+            </a>
+           </li>
+          </ul>
+          <div class="clear">
+          </div>
+          <div class="loading">
+          </div>
+          <ul class="tabs-content" data-posts="6">
+           <li class="active">
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/four-utd-alumni-killed-plano-home-mass-shooting/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/MG_4717.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/four-utd-alumni-killed-plano-home-mass-shooting/" title="Five UTD alumni killed in mass shooting at Plano home">
+               Five UTD alumni killed in mass shooting at Plano home
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              5703 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/relatives-friends-remember-victims-plano-shooting/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/6K6A6653.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/relatives-friends-remember-victims-plano-shooting/" title="Relatives, friends remember victims of Plano shooting">
+               Relatives, friends remember victims of Plano shooting
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              470 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/jsom-offers-new-beer-class/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_5521.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/jsom-offers-new-beer-class/" title="JSOM offers new beer class">
+               JSOM offers new beer class
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              209 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/student-releases-debut-album/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0039.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/student-releases-debut-album/" title="Student releases debut album">
+               Student releases debut album
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              131 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/what-happens-next/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_3818.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/what-happens-next/" title="What happens next?">
+               What happens next?
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              91 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/greek-life-obtains-new-commons-su/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IMG_8405.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/greek-life-obtains-new-commons-su/" title="Greek life obtains new commons in SU">
+               Greek life obtains new commons in SU
+              </a>
+             </p>
+             <p class="views">
+              <i class="fa fa-eye">
+              </i>
+              82 Views
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+           </li>
+           <li>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/lack-faith-govt-millennial-students-biggest-weakness/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/political-illustration.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/lack-faith-govt-millennial-students-biggest-weakness/">
+               Lack of faith in govt is millennial students’ biggest weakness
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/need-end-climate-change-mitigate-future-disasters/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=75%2C75" srcset="https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=150%2C150 150w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?resize=75%2C75 75w, https://i0.wp.com/utdmercury.com/wp-content/uploads/2017/09/REDONE-version.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/need-end-climate-change-mitigate-future-disasters/">
+               We need to end climate change to mitigate future disasters
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/freshman-cricketer-gains-intl-experience/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/CricketPlayer-KarthikGattepalli-003.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/freshman-cricketer-gains-intl-experience/">
+               Freshman cricketer gains int’l experience
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/new-head-athletic-trainer-takes/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=75%2C75" srcset="https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=150%2C150 150w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?resize=75%2C75 75w, https://i2.wp.com/utdmercury.com/wp-content/uploads/2017/09/DSC_0907-2.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/new-head-athletic-trainer-takes/">
+               New head athletic trainer takes over
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/fresh-faces/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/IRB_9907.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/fresh-faces/">
+               Fresh faces
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+            <div class="tabpost">
+             <div class="featuredimagewidget thumbnailarea">
+              <a class="thumblink" href="http://utdmercury.com/group-revs-new-year/">
+               <img alt="" class="attachment-tinyfeatured size-tinyfeatured wp-post-image" sizes="(max-width: 75px) 100vw, 75px" src="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=75%2C75" srcset="https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=150%2C150 150w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?resize=75%2C75 75w, https://i1.wp.com/utdmercury.com/wp-content/uploads/2017/09/5-thumb_IMG_4038_1024-copy.jpg?zoom=3&amp;resize=75%2C75 225w"/>
+              </a>
+             </div>
+             <p class="tab-title">
+              <a href="http://utdmercury.com/group-revs-new-year/">
+               Group revs up for new year
+              </a>
+             </p>
+             <p class="views">
+              September 18, 2017
+             </p>
+             <div class="clear">
+             </div>
+            </div>
+           </li>
+          </ul>
+          <div class="clear">
+          </div>
+         </div>
+        </div>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="top">
+     <a href="#">
+      <span class="scrolltop">
+       <span>
+        Top
+       </span>
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+  <div style="display:none">
+   <div class="grofile-hash-map-d44a733aa84f82ad79d2dc9ddb407a97">
+   </div>
+  </div>
+  <script src="http://utdmercury.com/wp-content/plugins/akismet/_inc/form.js?ver=3.3.1" type="text/javascript">
+  </script>
+  <link href="http://utdmercury.com/wp-content/plugins/team-showcase/css/global.css?ver=4.7.5" id="tshowcase-global-style-css" media="" rel="stylesheet" type="text/css">
+   <link href="http://utdmercury.com/wp-content/plugins/team-showcase/css/normal.css?ver=4.7.5" id="tshowcase-default-style-css" media="" rel="stylesheet" type="text/css"/>
+   <link href="http://utdmercury.com/wp-content/plugins/jetpack/modules/widgets/contact-info/contact-info-map.css?ver=20160623" id="contact-info-map-css-css" media="all" rel="stylesheet" type="text/css"/>
+   <script src="http://utdmercury.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122" type="text/javascript">
+   </script>
+   <script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201738" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var SfcounterObject={"ajaxurl":"http:\/\/utdmercury.com\/wp-admin\/admin-ajax.php"};
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/socialfans-counter/assets/js/socialfans-script.js?ver=4.4.1" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/themewich-shortcodes/js/jquery.magnific-popup.min.js?ver=0.9.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/themewich-shortcodes/js/jquery.isotope.min.js?ver=1.5.25" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/themewich-shortcodes/js/themewich.shortcodes.js?ver=1.4.1" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var pollsL10n={"ajax_url":"http:\/\/utdmercury.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.3" type="text/javascript">
+   </script>
+   <script src="http://s.gravatar.com/js/gprofiles.js?ver=2017Sepaa" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var WPGroHo={"my_hash":""};
+   </script>
+   <script src="http://utdmercury.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.5" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/comment-reply.min.js?ver=4.7.5" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/superfish.min.js?ver=1.7.5" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/jquery.mmenu.min.all.js?ver=5.0.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/jquery.fitvids.js?ver=1.1" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/jquery.easing.1.3.js?ver=1.3" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/jquery.bxslider.min.js?ver=4.2.3" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/jquery.backstretch.min.js?ver=2.0.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/underscore.min.js?ver=1.8.3" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var agAjax={"ajaxurl":"http:\/\/utdmercury.com\/wp-admin\/admin-ajax.php","get_template_directory_uri":"http:\/\/utdmercury.com\/wp-content\/themes\/edition","nonce":"9ffdaa91ab"};
+   </script>
+   <script src="http://utdmercury.com/wp-content/themes/edition/js/custom.js?ver=1.7.4" type="text/javascript">
+   </script>
+   <script src="http://utdmercury.com/wp-includes/js/wp-embed.min.js?ver=4.7.5" type="text/javascript">
+   </script>
+   <script async="" defer="" src="https://stats.wp.com/e-201738.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    _stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:4.9',blog:'66445652',post:'9362',tz:'-5',srv:'utdmercury.com'}]);_stq.push(['clickTrackerInit','66445652','9362']);
+   </script>
+   <script type="text/javascript">
+   </script>
+  </link>
+ </body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1505851087 -->
