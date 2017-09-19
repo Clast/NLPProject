@@ -71,3 +71,4 @@ def get_important_words():
             print("Top 25 terms from all pages: ")
             for i in keys:
                 print(i, " = ", dictionary.get(i))
+            return keys
