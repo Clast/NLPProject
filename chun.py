@@ -6,8 +6,14 @@
 # Create a dictionary of unique terms where the key is the token and the
 # value is the count across all documents.
 # Print the top 25-40 terms.
+import sys
+import os
+import nltk
+import string
+from nltk.corpus import stopwords
 def get_important_words():
-    for filename in os.getcwd():
+    cwd = os.getcwd()
+    for filename in os.listdir(cwd):
         if "c_" in filename:
             file = open(filename, 'r')
             page_text = file.read()
@@ -22,13 +28,12 @@ def get_important_words():
                 if word not in stopWords:
                     removed_stopwords.append(word)
             unique = set(removed_stopwords)
+            freq = nltk.FreqDist(removed_stopwords)
             dictionary = {}
             for word in unique:
                 if word not in dictionary:
-                    dicttmp = {word: int(1)}
+                    dicttmp = {word: int(freq.get(word))}
                     dictionary.update(dicttmp)
-                else:
-                    dictionary[word] = dictionary[word] + 1
             lengths = []  # holds the 25 longest lengths
             keys = []  # holds the keys to the 25 longest lengths
             # gets the keys and lengths of the 25 longest lists
@@ -63,5 +68,6 @@ def get_important_words():
                 tmp = keys[i]
                 keys[i] = keys[maxI]
                 keys[maxI] = tmp
+            print("Top 25 terms from all pages: ")
             for i in keys:
                 print(i, " = ", dictionary.get(i))
