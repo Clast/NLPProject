@@ -13,12 +13,15 @@ import string
 from nltk.corpus import stopwords
 def get_important_words():
     cwd = os.getcwd()
+    lengths = []  # holds the 25 longest lengths
+    keys = []  # holds the keys to the 25 longest lengths
+    dictionary = {}  # holds all the unique words and their counts
+    exclude = set(string.punctuation)
+    stopWords = set(stopwords.words('english'))
     for filename in os.listdir(cwd):
         if "c_" in filename:
             file = open(filename, 'r')
             page_text = file.read()
-            exclude = set(string.punctuation)
-            stopWords = set(stopwords.words('english'))
             altered_text = page_text.lower()
             altered_text = altered_text.replace("/n", " ")
             altered_text = ''.join(ch for ch in altered_text.replace("/n", " ") if ch not in exclude)
@@ -29,30 +32,35 @@ def get_important_words():
                     removed_stopwords.append(word)
             unique = set(removed_stopwords)
             freq = nltk.FreqDist(removed_stopwords)
-            dictionary = {}
+            # builds or adds to dictionary
             for word in unique:
                 if word not in dictionary:
                     dicttmp = {word: int(freq.get(word))}
                     dictionary.update(dicttmp)
-            lengths = []  # holds the 25 longest lengths
-            keys = []  # holds the keys to the 25 longest lengths
-            # gets the keys and lengths of the 25 longest lists
-            for key in dictionary:
-                if len(lengths) < 25:
+                else:
+                    dictionary[word] = dictionary[word] + int(freq.get(word))
+            # builds the keys and lengths of the 25 longest lists
+            if len(lengths) < 25:
+                for key in dictionary:
                     lengths.append(dictionary[key])
                     keys.append(key)
-                else:
-                    smallestLength = 99999
-                    smallestIndex = 99999
-                    # gets the smallest length in the length list each time
-                    # switches out the smallest if it is smaller than dictionary at key
-                    for i in range(0, len(lengths)):
-                        if lengths[i] < smallestLength:
-                            smallestLength = lengths[i]
-                            smallestIndex = i
-                    if smallestLength < dictionary[key]:
-                        keys[smallestIndex] = key
-                        lengths[smallestIndex] = dictionary[key]
+            else:
+            # then sort the 2 lists
+                for key in dictionary:
+                    if key not in keys:
+                        smallestLength = 99999
+                        smallestIndex = 99999
+                        # gets the smallest length in the length list each time if the key isn't in list of keys
+                        # switches out the smallest if it is smaller than dictionary at key
+                        for i in range(0, 25):
+                            if lengths[i] < smallestLength:
+                                smallestLength = lengths[i]
+                                smallestIndex = i
+                        if smallestLength < dictionary[key]:
+                            keys[smallestIndex] = key
+                            lengths[smallestIndex] = dictionary[key]
+                    else:
+                        lengths[keys.index(key)] = dictionary[key]
             # sort the lengths and keys descending order
             for i in range(0, len(lengths)):
                 maxL = lengths[i]
@@ -68,7 +76,8 @@ def get_important_words():
                 tmp = keys[i]
                 keys[i] = keys[maxI]
                 keys[maxI] = tmp
-            print("Top 25 terms from all pages: ")
-            for i in keys:
-                print(i, " = ", dictionary.get(i))
-            return keys
+    print("Top 25 terms from all pages: ")
+    for i in range(0, 25):
+        print(i, keys[i], " = ", lengths[i])
+    return keys
+get_important_words()
