@@ -4,6 +4,8 @@ import bs4
 from bs4 import BeautifulSoup
 import requests
 import re
+import os
+import nltk
 
 def get_url_list(numOfMaxCrawls):
 
@@ -64,8 +66,33 @@ def scrape(urllist = get_url_list(15)):
         f.write(soup.prettify())
         f.close()
         i+=1
-scrape()
 
+def cleanUp():
+    i = 0
+    for filename in os.listdir(os.getcwd()):
+        if "d_" in filename:
+            cleantext = ""
+            file = open(filename, 'r', encoding='utf-8')
+            sample = file.read()
+            f = open("c_%02d.txt" % i, "w+")
+            soup = BeautifulSoup(sample, 'html.parser')
+            test = soup.find_all(class_="postcontentwrap")
+            soup = BeautifulSoup(str(test), 'html.parser')
+            ourresults = soup.find_all('p')
+            for result in ourresults:
+                tmpstring = str(result)
+                tmpstring2 = re.sub("<.*?>", " ", tmpstring)
+                cleantext += tmpstring2
+            cleantext = cleantext.replace("\n", " ")
+            cleantext = cleantext.replace("\t", " ")
+            cleantext = ' '.join(cleantext.split())
+            tokens = nltk.sent_tokenize(cleantext)
+            for thingy in tokens:
+                tmpstring = thingy.encode('utf8').decode('ascii', 'ignore')
+                f.write(tmpstring)
+            i += 1
+            f.close()
+cleanUp()
 
 
 
