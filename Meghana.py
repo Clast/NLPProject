@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
+dire = open("directory.txt", "w+")
 def get_url_list(numOfMaxCrawls):
 
     def words_in_string(word_list, a_string):
@@ -60,7 +61,9 @@ def scrape(urllist = get_url_list(15)):
         #mercury_web = list_html[web]
         page = urllib.request.urlopen(web)
         soup = BeautifulSoup(page)
+        titlestr = soup.find_all("h1", "title entry-title")
         f = open("d_%02d.txt" % i, "w+")
+        dire.write("%s - %s \n" % (titlestr, f.name))
         f.write(soup.prettify())
         f.close()
         i+=1
