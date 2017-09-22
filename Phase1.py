@@ -1,4 +1,5 @@
-
+import string
+from nltk.corpus import stopwords
 import urllib.request
 from bs4 import BeautifulSoup
 import requests
@@ -6,7 +7,8 @@ import re
 import os
 import nltk
 
-def get_important_words():
+dire = open("directory.txt", "w+")
+def get_important_words(numberofwords):
     cwd = os.getcwd()
     lengths = []  # holds the 25 longest lengths
     keys = []  # holds the keys to the 25 longest lengths
@@ -35,7 +37,7 @@ def get_important_words():
                 else:
                     dictionary[word] = dictionary[word] + int(freq.get(word))
             # builds the keys and lengths of the 25 longest lists
-            if len(lengths) < 25:
+            if len(lengths) < numberofwords:
                 for key in dictionary:
                     lengths.append(dictionary[key])
                     keys.append(key)
@@ -47,7 +49,7 @@ def get_important_words():
                         smallestIndex = 99999
                         # gets the smallest length in the length list each time if the key isn't in list of keys
                         # switches out the smallest if it is smaller than dictionary at key
-                        for i in range(0, 25):
+                        for i in range(0, numberofwords):
                             if lengths[i] < smallestLength:
                                 smallestLength = lengths[i]
                                 smallestIndex = i
@@ -71,10 +73,11 @@ def get_important_words():
                 tmp = keys[i]
                 keys[i] = keys[maxI]
                 keys[maxI] = tmp
-    print("Top 25 terms from all pages: ")
-    for i in range(0, 25):
+    print("Top %d terms from all pages: " % numberofwords)
+    for i in range(0, numberofwords):
         print(i, keys[i], " = ", lengths[i])
     return keys
+
 
 def get_url_list(numOfMaxCrawls):
 
@@ -126,16 +129,22 @@ def get_url_list(numOfMaxCrawls):
             URLListFinal.append(k)
     return URLListFinal
 
-def scrape(urllist = get_url_list(15)):
+
+def scrape(urllist):
     i = 0
     for web in urllist:
         #mercury_web = list_html[web]
         page = urllib.request.urlopen(web)
         soup = BeautifulSoup(page)
+        titlestr = soup.find("h1", "title entry-title")
+        titlestr2 = re.sub("<.*?>", "", str(titlestr))
         f = open("d_%02d.txt" % i, "w+")
-        f.write(soup.prettify())
+        dire.write("%s - c_%02d.txt - %s \n" % (titlestr2, i, web))
+        tmpstring = soup.prettify().encode('utf-8').decode('ascii', 'ignore')
+        f.write(tmpstring)
         f.close()
-        i+=1
+        i += 1
+
 
 def cleanUp():
     i = 0
@@ -146,8 +155,13 @@ def cleanUp():
             sample = file.read()
             f = open("c_%02d.txt" % i, "w+")
             soup = BeautifulSoup(sample, 'html.parser')
-            test = soup.find_all(class_="postcontentwrap")
-            soup = BeautifulSoup(str(test), 'html.parser')
+            content = soup.find_all(class_="postcontent content")
+            if content is not None:
+                if len(content) > 0:
+                    for listitem in content:
+                        for thingy in listitem.find_all(class_="g"):
+                            thingy.decompose()
+            soup = BeautifulSoup(str(content), 'html.parser')
             ourresults = soup.find_all('p')
             for result in ourresults:
                 tmpstring = str(result)
@@ -159,11 +173,12 @@ def cleanUp():
             tokens = nltk.sent_tokenize(cleantext)
             for thingy in tokens:
                 tmpstring = thingy.encode('utf8').decode('ascii', 'ignore')
-                f.write(tmpstring)
+                f.write("%s " % tmpstring)
             i += 1
             f.close()
 
-cleanUp()
+
+get_important_words(40)
 
 
 
