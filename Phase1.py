@@ -188,17 +188,104 @@ def cleanUp():
         print("Finished cleaning")
 
 
+def getTopWordsperFile():  # this function returns a list where each spot on the list is another list of top words in each file
+    topwords = []
+    exclude = set(string.punctuation)
+    stopWords = set(stopwords.words('english'))
+    for filename in os.listdir(os.getcwd()):
+        if "c_" in filename:
+            tmplist = []  # this stores the current file's name and top words
+            tmplist.append(str(filename))
+            file = open(filename, 'r', encoding='utf-8')
+            text = file.read()
+            altered_text = text.lower()
+            altered_text = altered_text.replace("/n", " ")
+            altered_text = ''.join(ch for ch in altered_text.replace("/n", " ") if ch not in exclude)
+            tokens = nltk.word_tokenize(altered_text)
+            removed_stopwords = []
+            for word in tokens:
+                if word not in stopWords:
+                    removed_stopwords.append(word)
+            filereq = nltk.FreqDist(removed_stopwords)  # this is the file's total frequency
+            for tuple in filereq.most_common():  # adds the most common word to the tmplist
+                tmplist.append(tuple[0])
+            topwords.append(tmplist)  # add the tmplist to the overall list
+    return topwords
+
+
+def getSentencesperFile():  # this function returns a list of a list of sentences per file
+    sentences = []
+    for filename in os.listdir(os.getcwd()):
+        if "c_" in filename:
+            tmplist = []  # this stores the current file's name and sentences
+            tmplist.append(str(filename))
+            file = open(filename, 'r', encoding='utf-8')
+            text = file.read()
+            sentencetokens = nltk.sent_tokenize(text)
+            for sent in sentencetokens:  # adds the most common word to the tmplist
+                tmplist.append(str(sent))
+            sentences.append(tmplist)  # add the tmplist to the overall list
+    return sentences
+
+
+def initializer():
+    checkforfiles = 0  # checks if the program has been executed already; clean files must exist
+    for filename in os.listdir(os.getcwd()):
+        if "c_" in filename:
+            checkforfiles += 1
+    if checkforfiles == 0:
+        url_list = crawlAndReturnURLs(10)
+        scrapeWeb(url_list)
+        cleanUp()
+        getImportantWords(40)
 
 
 def main():
-    url_list = crawlAndReturnURLs(10)
-    scrapeWeb(url_list)
-    cleanUp()
-    getImportantWords(40)
+    sentences = []
+    topwords = []
+    exclude = set(string.punctuation)
+    stopWords = set(stopwords.words('english'))
+    initializer()
+    topwords = getTopWordsperFile()
+    sentences = getSentencesperFile()
+    inputstr = ""
+    while inputstr != ".":
+        inputstr = str(input("What is your question? Enter a period to exit. \n"))
+        if inputstr != ".":
+            count = [int(0)]*len(topwords)  # this keeps track of the matches
+            indexcount = 0
+            maxmatches = -9999  # this keeps track of the max matches
+            maxmatchesindex = 0     # and this keeps track of where it is, since the index will correlate to the files
+            relevantsentences = []  # this keeps track of relevant sentences containing the key word we want to print out
+            altered_text = inputstr.lower()
+            altered_text = altered_text.replace("/n", " ")
+            altered_text = ''.join(ch for ch in altered_text.replace("/n", " ") if ch not in exclude)
+            tokens = nltk.word_tokenize(altered_text)
+            removed_stopwords = []
+            for word in tokens:
+                if word not in stopWords:
+                    removed_stopwords.append(word)
+            # now we compare the user's words to the top words and see which file we need to get
+            for lists in topwords:
+                for word in removed_stopwords:
+                    if word in lists:
+                        count[indexcount] += int(1)
+                if maxmatches < count[indexcount]:
+                    maxmatches = count[indexcount]
+                    maxmatchesindex = indexcount
+                indexcount += 1
+            # at this point, we should know which file has the max number of matches so lets get the sentences of that file
+            for sent in sentences[maxmatchesindex]:
+                for word in removed_stopwords:
+                    if str(word) in str(sent):
+                        if str(sent) not in relevantsentences:
+                            relevantsentences.append(str(sent))
+            print("You should check out file %s. Relevant sentences might include: " % topwords[maxmatchesindex][0])
+            for sent in relevantsentences:
+                print(sent)
 
 if __name__ == "__main__":
     main()
-
 
 
 
