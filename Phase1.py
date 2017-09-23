@@ -7,8 +7,9 @@ import re
 import os
 import nltk
 
-dire = open("directory.txt", "w+")
-def get_important_words(numberofwords):
+
+def getImportantWords(numberofwords):
+    print("Generating important words...")
     cwd = os.getcwd()
     lengths = []  # holds the 25 longest lengths
     keys = []  # holds the keys to the 25 longest lengths
@@ -79,7 +80,8 @@ def get_important_words(numberofwords):
     return keys
 
 
-def get_url_list(numOfMaxCrawls):
+def crawlAndReturnURLs(numOfMaxCrawls):
+    print("Starting URL Crawl...")
 
     def words_in_string(word_list, a_string):
         for word in word_list:
@@ -127,26 +129,33 @@ def get_url_list(numOfMaxCrawls):
             continue
         else:
             URLListFinal.append(k)
+    print("Finished crawling.")
     return URLListFinal
 
 
-def scrape(urllist):
+def scrapeWeb(urllist):
+    print("Starting to web scrape...")
     i = 0
+    dire = open("directory.txt", "w+")
     for web in urllist:
         #mercury_web = list_html[web]
         page = urllib.request.urlopen(web)
         soup = BeautifulSoup(page)
         titlestr = soup.find("h1", "title entry-title")
         titlestr2 = re.sub("<.*?>", "", str(titlestr))
+        titlestr2 = titlestr2.lstrip()
         f = open("d_%02d.txt" % i, "w+")
-        dire.write("%s - c_%02d.txt - %s \n" % (titlestr2, i, web))
+        dire.write("#title#%s#eotitle##filestart#c_%02d.txt$fileend$#urlstart#%s#urlend#\n" % (titlestr2, i, web))
         tmpstring = soup.prettify().encode('utf-8').decode('ascii', 'ignore')
         f.write(tmpstring)
         f.close()
         i += 1
+    print("Done scraping")
+    dire.close()
 
 
 def cleanUp():
+    print("Starting text cleanup...")
     i = 0
     for filename in os.listdir(os.getcwd()):
         if "d_" in filename:
@@ -176,11 +185,19 @@ def cleanUp():
                 f.write("%s " % tmpstring)
             i += 1
             f.close()
+        print("Finished cleaning")
 
 
-get_important_words(40)
 
 
+def main():
+    url_list = crawlAndReturnURLs(10)
+    scrapeWeb(url_list)
+    cleanUp()
+    getImportantWords(40)
+
+if __name__ == "__main__":
+    main()
 
 
 
