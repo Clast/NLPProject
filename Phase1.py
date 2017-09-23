@@ -145,7 +145,7 @@ def scrapeWeb(urllist):
         titlestr2 = re.sub("<.*?>", "", str(titlestr))
         titlestr2 = titlestr2.lstrip()
         f = open("d_%02d.txt" % i, "w+")
-        dire.write("#title#%s#eotitle##filestart#c_%02d.txt$fileend$#urlstart#%s#urlend#\n" % (titlestr2, i, web))
+        dire.write("#title#%s#eotitle##filestart#c_%02d.txt#fileend##urlstart#%s#urlend#\n" % (titlestr2, i, web))
         tmpstring = soup.prettify().encode('utf-8').decode('ascii', 'ignore')
         f.write(tmpstring)
         f.close()
@@ -185,16 +185,16 @@ def cleanUp():
                 f.write("%s " % tmpstring)
             i += 1
             f.close()
-        print("Finished cleaning")
+    print("Finished cleaning")
 
 
 
 
 def main():
-    url_list = crawlAndReturnURLs(10)
+    url_list = crawlAndReturnURLs(4)
     scrapeWeb(url_list)
     cleanUp()
-    getImportantWords(40)
+    #getImportantWords(40)
 
 if __name__ == "__main__":
     main()
