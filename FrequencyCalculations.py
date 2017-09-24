@@ -17,7 +17,7 @@ def convertToTexts():
     for filename in os.listdir(os.getcwd()):
         if "c_" in filename:
             file = open(filename, 'r', encoding='utf-8')
-            text = file.read()
+            text = file.read().lower()
             text = re.sub('[^\w\s]', ' ', text)
             tokens = nltk.word_tokenize(text)
             tokens = remove_stopwords(tokens)
