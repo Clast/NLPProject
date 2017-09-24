@@ -6,6 +6,8 @@ import requests
 import re
 import os
 import nltk
+import FrequencyCalculations
+import pickle
 
 
 def getImportantWords(numberofwords):
@@ -194,7 +196,18 @@ def main():
     url_list = crawlAndReturnURLs(4)
     scrapeWeb(url_list)
     cleanUp()
-    #getImportantWords(40)
+    FrequencyCalculations.buildKnowledgebase()
+    print("Knowledgebase built. Pickle files ready to load.")
+    print("Loading pickle files...DEBUG: Place a stop point on the print(complete) line to view knowledgebase")
+
+    with open('knowledge_base.pickle', 'rb') as handle:
+        knowledge_base = pickle.load(handle)
+
+    with open('words_to_articles.pickle', 'rb') as handle:
+        words_to_articles = pickle.load(handle)
+
+    print("Complete")
+
 
 if __name__ == "__main__":
     main()
