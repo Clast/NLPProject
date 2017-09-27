@@ -10,129 +10,62 @@ import FrequencyCalculations
 import pickle
 
 
-def getImportantWords(numberofwords):
-    print("Generating important words...")
-    cwd = os.getcwd()
-    lengths = []  # holds the 25 longest lengths
-    keys = []  # holds the keys to the 25 longest lengths
-    dictionary = {}  # holds all the unique words and their counts
-    exclude = set(string.punctuation)
-    stopWords = set(stopwords.words('english'))
-    for filename in os.listdir(cwd):
-        if "c_" in filename:
-            file = open(filename, 'r')
-            page_text = file.read()
-            altered_text = page_text.lower()
-            altered_text = altered_text.replace("/n", " ")
-            altered_text = ''.join(ch for ch in altered_text.replace("/n", " ") if ch not in exclude)
-            tokens = nltk.word_tokenize(altered_text)
-            removed_stopwords = []
-            for word in tokens:
-                if word not in stopWords:
-                    removed_stopwords.append(word)
-            unique = set(removed_stopwords)
-            freq = nltk.FreqDist(removed_stopwords)
-            # builds or adds to dictionary
-            for word in unique:
-                if word not in dictionary:
-                    dicttmp = {word: int(freq.get(word))}
-                    dictionary.update(dicttmp)
-                else:
-                    dictionary[word] = dictionary[word] + int(freq.get(word))
-            # builds the keys and lengths of the 25 longest lists
-            if len(lengths) < numberofwords:
-                for key in dictionary:
-                    lengths.append(dictionary[key])
-                    keys.append(key)
-            else:
-            # then sort the 2 lists
-                for key in dictionary:
-                    if key not in keys:
-                        smallestLength = 99999
-                        smallestIndex = 99999
-                        # gets the smallest length in the length list each time if the key isn't in list of keys
-                        # switches out the smallest if it is smaller than dictionary at key
-                        for i in range(0, numberofwords):
-                            if lengths[i] < smallestLength:
-                                smallestLength = lengths[i]
-                                smallestIndex = i
-                        if smallestLength < dictionary[key]:
-                            keys[smallestIndex] = key
-                            lengths[smallestIndex] = dictionary[key]
-                    else:
-                        lengths[keys.index(key)] = dictionary[key]
-            # sort the lengths and keys descending order
-            for i in range(0, len(lengths)):
-                maxL = lengths[i]
-                maxI = i
-                for j in range(i, len(lengths)):
-                    if maxL < lengths[j]:
-                        maxL = lengths[j]
-                        maxI = j
-                tmp = lengths[i]
-                lengths[i] = maxL
-                lengths[maxI] = tmp
-                #sorts the keys associated with the lengths
-                tmp = keys[i]
-                keys[i] = keys[maxI]
-                keys[maxI] = tmp
-    print("Top %d terms from all pages: " % numberofwords)
-    for i in range(0, numberofwords):
-        print(i, keys[i], " = ", lengths[i])
-    return keys
+def words_in_string(word_list, a_string):
+    for word in word_list:
+        m = re.search(word, a_string)
+        if m is not None:
+            return True
 
+def crawlAndReturnURLs(num_of_max_crawls):
 
-def crawlAndReturnURLs(numOfMaxCrawls):
     print("Starting URL Crawl...")
 
-    def words_in_string(word_list, a_string):
-        for word in word_list:
-            m = re.search(word, a_string)
-            if m is not None:
-                return True
-
     starter_url = "http://utdmercury.com/category/news/"
-    URLs = {}
-    numOfCrawls = 0
-    URLList = []
-    while (numOfCrawls < numOfMaxCrawls):
+    navigation_urls = {}
+    num_of_crawls = 0
+    possible_articles = []
+    while num_of_crawls < num_of_max_crawls:
 
         r = requests.get(starter_url)
-
         data = r.text
         soup = BeautifulSoup(data)
 
-        # write urls to a file
+        #Keep track of navigation urls in navigation_urls and mark as visited
+        #Keep possible articles in possible_articles
         for link in soup.find_all('a'):
             link_str = str(link.get('href'))
             if link_str.__contains__("http"):
                 # print(link_str)
                 writable_link = str(link.get('href'))
-                if writable_link not in URLList:
+                if writable_link not in possible_articles:
                     if "/category/" not in writable_link:
-                        URLList.append(writable_link)
+                        possible_articles.append(writable_link)
                 if link_str.__contains__("news/page"):
-                    if not URLs.__contains__(link_str):
-                        URLs.setdefault(link_str, 0)
+                    if not navigation_urls.__contains__(link_str):
+                        navigation_urls.setdefault(link_str, 0)
 
-        for k in URLs:
-            if URLs[k] == 0:
-                URLs[k] = 1
+        #If not visited, visit on next loop
+        for k in navigation_urls:
+            if navigation_urls[k] == 0:
+                navigation_urls[k] = 1
                 starter_url = k
                 break;
 
-        numOfCrawls = numOfCrawls + 1
-    URLListFinal = []
-    badWords = ["facebook.com", "twitter.com", "youtube.com", "/comics/", \
+        num_of_crawls = num_of_crawls + 1
+
+    #Parse out bad urls from the possible article list
+    article_url_final = []
+    bad_words = ["facebook.com", "twitter.com", "youtube.com", "/comics/", \
                 "/eeditions-2", "/contact-us/", "/advertising", "/source-faqs/", "/author", \
-                "instagram", "maps.google"]
-    for k in URLList:
-        if words_in_string(badWords, k):
+                "instagram", "maps.google", "sg-report", "mercury-morning-news"]
+
+    for k in possible_articles:
+        if words_in_string(bad_words, k):
             continue
         else:
-            URLListFinal.append(k)
+            article_url_final.append(k)
     print("Finished crawling.")
-    return URLListFinal
+    return article_url_final
 
 
 def scrapeWeb(urllist):
