@@ -1,3 +1,16 @@
+# Knowledge extraction for NLP Project, Phase 1
+# Written by Swati Hirpara, Chun Lin, Daniel Rich, and Meghana Vellaturi
+
+# Phase1.py creates a knowledge base when run. Please be aware
+# that it takes some time to run because of outside API calls and the
+# inefficiency of tf-idf by NLTK using 'match' across a large corpus
+
+# The knowledge base is saved in the two pickle files generated.
+# LoadGeneratedPickles.py demos the knowledge base and a
+# simple query if run
+
+# Aylien sdk must be installed. pip install --upgrade aylien-apiclient
+
 import string
 from nltk.corpus import stopwords
 import urllib.request
@@ -16,8 +29,8 @@ def words_in_string(word_list, a_string):
         if m is not None:
             return True
 
-def crawlAndReturnURLs(num_of_max_crawls):
 
+def crawlAndReturnURLs(num_of_max_crawls):
     print("Starting URL Crawl...")
 
     starter_url = "http://utdmercury.com/category/news/"
@@ -30,8 +43,8 @@ def crawlAndReturnURLs(num_of_max_crawls):
         data = r.text
         soup = BeautifulSoup(data)
 
-        #Keep track of navigation urls in navigation_urls and mark as visited
-        #Keep possible articles in possible_articles
+        # Keep track of navigation urls in navigation_urls and mark as visited
+        # Keep possible articles in possible_articles
         for link in soup.find_all('a'):
             link_str = str(link.get('href'))
             if link_str.__contains__("http"):
@@ -44,7 +57,7 @@ def crawlAndReturnURLs(num_of_max_crawls):
                     if not navigation_urls.__contains__(link_str):
                         navigation_urls.setdefault(link_str, 0)
 
-        #If not visited, visit on next loop
+        # If not visited, visit on next loop
         for k in navigation_urls:
             if navigation_urls[k] == 0:
                 navigation_urls[k] = 1
@@ -53,11 +66,11 @@ def crawlAndReturnURLs(num_of_max_crawls):
 
         num_of_crawls = num_of_crawls + 1
 
-    #Parse out bad urls from the possible article list
+    # Parse out bad urls from the possible article list
     article_url_final = []
     bad_words = ["facebook.com", "twitter.com", "youtube.com", "/comics/", \
-                "/eeditions-2", "/contact-us/", "/advertising", "/source-faqs/", "/author", \
-                "instagram", "maps.google", "sg-report", "mercury-morning-news"]
+                 "/eeditions-2", "/contact-us/", "/advertising", "/source-faqs/", "/author", \
+                 "instagram", "maps.google", "sg-report", "mercury-morning-news"]
 
     for k in possible_articles:
         if words_in_string(bad_words, k):
@@ -73,7 +86,7 @@ def scrapeWeb(urllist):
     i = 0
     dire = open("directory.txt", "w+")
     for web in urllist:
-        #mercury_web = list_html[web]
+        # mercury_web = list_html[web]
         page = urllib.request.urlopen(web)
         soup = BeautifulSoup(page)
         titlestr = soup.find("h1", "title entry-title")
@@ -123,33 +136,14 @@ def cleanUp():
     print("Finished cleaning")
 
 
-
-
 def main():
     url_list = crawlAndReturnURLs(4)
     scrapeWeb(url_list)
     cleanUp()
     FrequencyCalculations.buildKnowledgebase()
-    print("Knowledgebase built. Pickle files ready to load.")
-    print("Loading pickle files...DEBUG: Place a stop point on the print(complete) line to view knowledgebase")
-
-    with open('knowledge_base.pickle', 'rb') as handle:
-        knowledge_base = pickle.load(handle)
-
-    with open('words_to_articles.pickle', 'rb') as handle:
-        words_to_articles = pickle.load(handle)
 
     print("Complete")
 
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-

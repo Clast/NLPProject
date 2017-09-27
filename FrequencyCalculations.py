@@ -1,3 +1,12 @@
+# Written by Daniel Rich
+
+# FrequencyCalculations.py generates the knowledge base
+# built by the scraping and crawling in Phase1
+# the functions are called in Phase1.py and do not need to be run
+# manually
+
+# The api client key for aylien is located at the bottom
+
 import os
 import nltk
 import re
