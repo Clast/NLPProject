@@ -13,8 +13,19 @@ with open('words_to_articles.pickle', 'rb') as handle:
 #Example
 possible_target_article = {}
 query = "is there construction at utd"
+
+dir = "/Users/MeghanaVellaturi/Desktop/NLPProject"
+with open(dir + '/' + "keys.txt", 'w') as f:
+
+    for word in words_to_articles:
+        f.write("{")
+        f.write('"value": "{}"'.format(word))
+        #print("\n")
+        f.write("},\n")
+
 for word in query.split():
     if word in words_to_articles:
+
 
         contained = words_to_articles[word]
 
@@ -32,6 +43,7 @@ for word in query.split():
                 possible_target_article[k] += score
                 print("")
 
+
 target_article = max(possible_target_article.items(), key=operator.itemgetter(1))[0]
 print(target_article + " has the highest importance score with " + str(possible_target_article[target_article]))
 print("")
@@ -42,4 +54,5 @@ summary = knowledge_base[target_article][3]
 print("Summary: ")
 for listitem in summary:
     print(listitem)
+
 
