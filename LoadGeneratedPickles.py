@@ -3,6 +3,7 @@
 import pickle
 import string
 import operator
+import os
 
 with open('knowledge_base.pickle', 'rb') as handle:
     knowledge_base = pickle.load(handle)
@@ -14,7 +15,9 @@ with open('words_to_articles.pickle', 'rb') as handle:
 possible_target_article = {}
 query = "is there construction at utd"
 
-dir = "/Users/MeghanaVellaturi/Desktop/NLPProject"
+dir = "/Users/MeghanaVellaturi/Desktop/NLPProject/NLPProject/words_to_article.pickle"
+dir = os.getcwd()
+dir1 = os.path.join(dir,'/Desktop/NLPProject/NLPProject/')
 with open(dir + '/' + "keys.txt", 'w') as f:
 
     for word in words_to_articles:
